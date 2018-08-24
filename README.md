@@ -1,1 +1,0 @@
-# Object-detection-using-Spatial-Pyramid-Matching
