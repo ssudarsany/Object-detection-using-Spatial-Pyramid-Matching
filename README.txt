@@ -1,4 +1,4 @@
-# Object detection using SIFT and ORB
+# Object detection using SIFT and ORB:
 
 Data taken form caltech 101 is inside the data folder.
 Location of SIFT.cpp: ./SIFT/SIFT.cpp
